@@ -1,0 +1,13 @@
+C:\Users\Matheus\Desktop\SENAI\Objetos_argumentados_POO\bin\Debug\netcoreapp3.1\Objetos_argumentados_POO.exe
+C:\Users\Matheus\Desktop\SENAI\Objetos_argumentados_POO\bin\Debug\netcoreapp3.1\Objetos_argumentados_POO.deps.json
+C:\Users\Matheus\Desktop\SENAI\Objetos_argumentados_POO\bin\Debug\netcoreapp3.1\Objetos_argumentados_POO.runtimeconfig.json
+C:\Users\Matheus\Desktop\SENAI\Objetos_argumentados_POO\bin\Debug\netcoreapp3.1\Objetos_argumentados_POO.runtimeconfig.dev.json
+C:\Users\Matheus\Desktop\SENAI\Objetos_argumentados_POO\bin\Debug\netcoreapp3.1\Objetos_argumentados_POO.dll
+C:\Users\Matheus\Desktop\SENAI\Objetos_argumentados_POO\bin\Debug\netcoreapp3.1\Objetos_argumentados_POO.pdb
+C:\Users\Matheus\Desktop\SENAI\Objetos_argumentados_POO\obj\Debug\netcoreapp3.1\Objetos_argumentados_POO.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\SENAI\Objetos_argumentados_POO\obj\Debug\netcoreapp3.1\Objetos_argumentados_POO.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\SENAI\Objetos_argumentados_POO\obj\Debug\netcoreapp3.1\Objetos_argumentados_POO.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\SENAI\Objetos_argumentados_POO\obj\Debug\netcoreapp3.1\Objetos_argumentados_POO.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\SENAI\Objetos_argumentados_POO\obj\Debug\netcoreapp3.1\Objetos_argumentados_POO.dll
+C:\Users\Matheus\Desktop\SENAI\Objetos_argumentados_POO\obj\Debug\netcoreapp3.1\Objetos_argumentados_POO.pdb
+C:\Users\Matheus\Desktop\SENAI\Objetos_argumentados_POO\obj\Debug\netcoreapp3.1\Objetos_argumentados_POO.genruntimeconfig.cache
